@@ -6,7 +6,7 @@
 
 variable "client_id" {
     description =   "Client ID (APP ID) of the application"
-    type        =   69a8c671-f14e-4195-b3ed-9f9cc13e7b09
+    type        =   "9a8c671-f14e-4195-b3ed-9f9cc13e7b09"
 }
 
 variable "client_secret" {
