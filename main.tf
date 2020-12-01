@@ -9,7 +9,7 @@ terraform {
         resource_group_name     =   "rg-terraformstatemac"
         storage_account_name    =   "terrastatestorage180"
         container_name          =   "terraformdemomac"
-        key                     =   "key1"
+        key                     =   "access_key"
     }
 }
 
